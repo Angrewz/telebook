@@ -14,6 +14,7 @@
   border-radius: var(--size-border-radius-big);
   background-color: var(--color-bg);
   padding: 10px var(--size-cell-h-padding);
+  white-space: pre-line;
 
   @apply --callout;
 }
